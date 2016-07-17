@@ -39,7 +39,7 @@ class EWSwitch extends React.Component {
                           backgroundColor: this.props.activateBackgroundColor,
                           width:this.props.switchWidth,
                           height:this.props.switchHeight,
-                          borderRadius: this.props.buttonRadius,
+                          borderRadius: this.props.buttonRadius, /*为了保证滑块在switch两端时能够覆盖背景，所以背景使用滑块的borderRadius*/
                           borderColor:this.props.activateBorderColor,
                           borderWidth:this.props.activateBorderWidth,
                           }}
@@ -114,7 +114,7 @@ class EWSwitch extends React.Component {
 EWSwitch.defaultProps = {
     switchWidth: 55,
     switchHeight: 30,
-    activateBackgroundColor: '#1ba9ba',
+    activateBackgroundColor: '#3281DE',
     deactivateBackgroundColor: '#f9f9f9',
     activateBorderWidth: 0.5,
     activateBorderColor: '#d1d3d4',
