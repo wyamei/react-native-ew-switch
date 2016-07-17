@@ -1,6 +1,8 @@
 # react-native-ew-switch
 Customizable switch for react-native
 
+![效果展示](https://raw.githubusercontent.com/wyamei/react-native-ew-switch/master/demo.jpg)
+
 # 范围
 android & ios
 
