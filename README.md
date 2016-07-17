@@ -1,5 +1,5 @@
 # react-native-ew-switch
-Customizable switch for react-native
+Customizable switch for react-native      
 为react-native自定义的switch控件
 
 ![demoImg1](https://raw.githubusercontent.com/wyamei/react-native-ew-switch/master/demoImgs/demoImg1.jpg) ![demoImg2](https://raw.githubusercontent.com/wyamei/react-native-ew-switch/master/demoImgs/demoImg2.jpg)
