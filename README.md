@@ -13,7 +13,7 @@ Customizable switch for react-native
 * [Run](#Run)
 
 ### support
-android & ios
+android & ios 
 
 ### function
 * custom switch color / 自定义switch颜色；
